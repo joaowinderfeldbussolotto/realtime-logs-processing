@@ -3,6 +3,9 @@
 
 ![Architecture Diagram](assets/solution_arch.png)
 
+## Demo
+https://github.com/user-attachments/assets/d896f21e-b285-4e7f-8f62-04ee2980027b
+
 ## Overview
 
 This project showcases a real-time log processing pipeline that combines the power of data engineering tools with AI-powered analysis. By integrating streaming data processing with artificial intelligence, the system can automatically detect, analyze, and alert on potential issues in your logs.
